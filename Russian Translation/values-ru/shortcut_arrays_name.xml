@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="shortcut_arrays_name">
+
+
+
+
+
+        <item>Личный словарь</item>
+        <item>Личный словарь</item>
+
+        <item>Тестирование Wi-Fi API</item>
+        <item>Программа проверки орфографии</item>
+
+
+
+        <item>Десертный чехол</item>
+        <item>Настройки тестирования</item>
+        <item>Приложения с доступом к ресурсам</item>
+
+
+        <item>Настройки голоса</item>
+        <item>Живые обои</item>
+        <item>Легкий режим</item>
+        <item>Интеллектуальный сетевой коммутатор</item>
+
+        <item>Служба общих данных</item>
+        <item>Режим инженера</item>
+        <item>MTKLogger</item>
+        <item>LocationEM2</item>
+        <item>YGPS</item>
+
+
+
+        <item>Доверенные учетные данные</item>
+        <item>WAPI Менеджер сертификатов</item>
+
+
+        <item>Настройки печати</item>
+        <item>Настройка быстрого запуска</item>
+        <item>Поставщик приложения поиска</item>
+
+
+    </string-array>
+
+
+</resources>

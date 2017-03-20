@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="shortcut_arrays_name">
+
+
+
+
+
+        <item>Personal Dictionary</item>
+        <item>Personal Dictionary</item>
+
+        <item>WiFi API Test</item>
+        <item>Spell Checker</item>
+
+
+
+        <item>Dessert Case</item>
+        <item>Testing Settings</item>
+        <item>Apps with Usage Access</item>
+
+
+        <item>Voice Settings</item>
+        <item>Live wallpaper</item>
+        <item>Easy mode</item>
+        <item>Smart network switch</item>
+
+        <item>Common Data Service</item>
+        <item>Engineer Mode</item>
+        <item>MTKLogger</item>
+        <item>LocationEM2</item>
+        <item>YGPS</item>
+
+
+
+        <item>Trusted Credentials</item>
+        <item>WAPI Cert Manager</item>
+
+
+        <item>Printing Settings</item>
+        <item>Quick launch setting</item>
+        <item>Search Applications Provider</item>
+
+
+    </string-array>
+
+
+</resources>

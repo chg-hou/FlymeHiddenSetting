@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Flyme Скрыть Настройки</string>
+
+    <string name="changelog">Список Изменений</string>
+
+
+    <string name="navigation_drawer_open">Открыть панель навигации</string>
+    <string name="navigation_drawer_close">Закрыть панель навигации</string>
+
+    <string name="action_settings">Настройки</string>
+    <string name="title_activity_app_detail">Сведения о приложении</string>
+    <string name="title_activity_wifi_detail">Детали WiFi</string>
+
+
+    <string name="progressdiag_loading">Загрузка...</string>
+
+
+    <string name="none_app_found">
+        <![CDATA[
+        <font color="#ff0000">Разрешить этому приложению получать список установленных приложений в разделе «Управление разрешениями».</font>
+    ]]>
+
+    </string>
+
+    <plurals name="apps_found">
+        <!--<item quantity="zero">-->
+        <!--<![CDATA[-->
+        <!--None app found.<br>Please allow this app to <b>Get list of installed apps</b> in <b>Permission management</b>.-->
+        <!--]]>-->
+        <!--</item>-->
+
+
+        <!--<item quantity="zero">None app found.\nPlease allow this app to "Get list of installed apps" in "Permission management".</item>-->
+        <!--<item quantity="one">Найдено одно приложение.</item>-->
+        <!--<item quantity="other">%d apps found.</item>-->
+        <item quantity="other">Найдено %d приложений.</item>
+    </plurals>
+
+    <string name="no_root_permission">Не удалось получить root-разрешение.</string>
+
+    <string name="start_app">Запуск приложения: </string>
+    <string name="executing">Запуск... </string>
+
+    <string name="delete_access_point_title">Удалить точку доступа</string>
+    <string name="delete_access_point_confirm">Вы уверены, что хотите удалить эту точку доступа «%s»?</string>
+
+    <string name="fail_to_disable_access_point">Не удалось отключить сеть: </string>
+    <string name="success_in_disabling_access_point">Успех в отключении сети: </string>
+    <string name="fail_to_enable_access_point">Не удалось включить сеть: </string>
+    <string name="success_in_enabling_access_point">Успех в создании сети:</string>
+
+    <string name="wifi_upading">Обновление...</string>
+    <string name="open_app_details_settings">Открыть настройки информации о приложении: </string>
+
+    <string name="app_detail_first_tab">Информация</string>
+
+    <plurals name="apps_detail_activity">
+        <item quantity="one">%d activity</item>
+        <item quantity="other">%d activities</item>
+    </plurals>
+    <plurals name="apps_detail_service">
+        <item quantity="one">%d service</item>
+        <item quantity="other">%d services</item>
+    </plurals>
+    <plurals name="apps_detail_receiver">
+        <item quantity="one">%d receiver</item>
+        <item quantity="other">%d receivers</item>
+    </plurals>
+    <plurals name="apps_detail_provider">
+        <item quantity="one">%d provider</item>
+        <item quantity="other">%d providers</item>
+    </plurals>
+
+
+    <string name="menu_search">Поиск</string>
+    <string name="menu_refresh">Обновить</string>
+    <string name="menu_filter">Фильтр</string>
+
+    <string name="menu_app_list_filter_title1">По местоположению</string>
+    <string name="menu_app_list_filter_all">Все</string>
+    <string name="menu_app_list_filter_system">Системные приложения</string>
+    <string name="menu_app_list_filter_3rdparty">Сторонние</string>
+
+    <string name="menu_app_list_filter_title2">Включить состояние</string>
+    <string name="menu_app_list_filter_enabled_disabled">Все</string>
+    <string name="menu_app_list_filter_enabled">Включенные приложения</string>
+    <string name="menu_app_list_filter_disabled">Отключенные приложения</string>
+
+    <string name="wifi_frag_updated">Обновлено</string>
+
+    <string name="action_quit">Уволиться</string>
+
+    <string name="action_frag_app_control">Управление приложениями</string>
+    <string name="action_frag_wifi_control">Настройка Wi-Fi</string>
+    <string name="action_frag_shortcut">Горячие клавиши</string>
+
+    <string name="action_double_click_to_exit">Чтобы выйти, нажмите кнопку «Назад» еще раз.</string>
+
+
+    <string name="action_wifilist_showpassword">Показать пароль WiFi</string>
+    <string name="title_activity_wifi_password">Показать пароль WiFi</string>
+    <string name="title_activity_wifi_show_passwords">Показать пароль WiFi</string>
+
+    <string name="textview_wifi_password_content_of_wpa_supplicant">Содержимое wpa_supplicant.conf</string>
+
+    <string name="none_wifi_found">
+        <![CDATA[
+        <font color="#ff0000">Конфигурация не найдена.\nВключите Wi-Fi, чтобы просмотреть / отредактировать конфигурацию</font>
+    ]]>
+    </string>
+    <plurals name="wifi_found">
+        <item quantity="one">One configuration found</item>
+        <item quantity="other"> %d configurations found</item>
+    </plurals>
+
+    <string name="wifi_priority">  приоритет:</string>
+
+    <string name="wifi_button_wifi_setting">Настройка Wi-Fi</string>
+    <string name="wifi_button_wifi_add_new">Добавить новую точку доступа</string>
+    <string name="wifi_button_wifi_refresh">Обновить</string>
+
+    <string name="wifi_detail_networkid">Идентификатор сети</string>
+    <string name="wifi_detail_priority">Приоритет</string>
+    <string name="wifi_detail_hiddenssid">Скрытый SSID</string>
+
+    <string name="wifi_detail_ssid">SSID</string>
+    <string name="wifi_detail_bssid">BSSID</string>
+    <string name="wifi_detail_fqdn">FQDN</string>
+    <string name="wifi_detail_authalgorithm">Алгоритм аутентификации</string>
+    <string name="wifi_detail_groupciphers">Групповые шифры</string>
+    <string name="wifi_detail_keymanagement">Ключевой менеджмент</string>
+    <string name="wifi_detail_pairwiseciphers">Поблочные шифры</string>
+    <string name="wifi_detail_protocols">Протоколы</string>
+    <string name="wifi_detail_preSharedKey">Предварительный ключ</string>
+    <string name="wifi_detail_wepTxKeyIndex">Индекс ключа WEP</string>
+    <string name="wifi_detail_wepKeys1">WEP-ключ 1</string>
+    <string name="wifi_detail_wepKeys2">WEP-ключ 2</string>
+    <string name="wifi_detail_wepKeys3">WEP-ключ 3</string>
+    <string name="wifi_detail_wepKeys4">WEP-ключ 4</string>
+
+    <string name="wifi_detail_Wifi_Enterprise_Config">Конфигурация Wifi для предприятий</string>
+    <string name="wifi_detail_AnonymousIdentity">Анонимный идентификатор</string>
+    <string name="wifi_detail_Identity">Идентичность</string>
+    <string name="wifi_detail_Password">пароль</string>
+    <string name="wifi_detail_EapMethod">Метод EAP</string>
+    <string name="wifi_detail_Phase2">Фаза 2</string>
+
+    <string name="app_detail_appname">Имя приложения</string>
+    <string name="app_detail_packagename">"Имя пакета "</string>
+    <string name="app_detail_version">Версия</string>
+    <string name="app_detail_Enablestate">Включить состояние</string>
+    <string name="app_detail_flag">Флаг</string>
+
+    <string name="app_detail_system"   >"Системное приложение"</string>
+    <string name="app_detail_updated"  >"Обновлено       "</string>
+    <string name="app_detail_stopped"  >"Остановлен      "</string>
+    <string name="app_detail_suspended">"Подвесные "</string>
+
+
+    <string name="wifi_detail_save">"Сохранить"</string>
+
+    <string name="shortcut_os_is_not_flyme">"ОС не Flyme!"</string>
+    <string name="shortcut_os_is_not_flyme_content">"Части следующих функций могут работать неправильно под ОС, отличной от Flyme!\nИспользуйте на свой риск!"</string>
+
+    <string name="expired">"Истекший"</string>
+    <string name="expired_content">"Обновите последнюю версию."</string>
+
+    <string name="menu_help" >Помогите</string>
+    <string name="drawer_action_feedback">Обратная связь</string>
+
+    
+</resources>
+
